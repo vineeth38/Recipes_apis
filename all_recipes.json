@@ -1,4 +1,64 @@
 [
+      {
+  "id": 7,
+  "name": "Chicken Biryani",
+  "image": "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=612x612&w=0&k=20&c=adU_N0P-1SKMQLZu5yu7aPknfLLgbViI8XILqLP92A4=",
+  "prep_time": "1 hr",
+  "ingredients": [
+    "1 cup basmati rice (soaked 30 mins)",
+    "250g chicken (with bone, cleaned)",
+    "1/2 cup curd",
+    "1 onion (thinly sliced)",
+    "2 tomatoes (chopped)",
+    "1 tbsp ginger-garlic paste",
+    "1/2 tsp turmeric powder",
+    "1 tsp red chili powder",
+    "1 tsp garam masala",
+    "1/2 tsp biryani masala",
+    "Whole spices (1 bay leaf, 2 cloves, 2 cardamoms, 1 cinnamon stick)",
+    "Salt to taste",
+    "Coriander & mint leaves (chopped)",
+    "2 tbsp oil or ghee",
+    "Fried onions for garnish (optional)"
+  ],
+  "instructions": [
+    "Marinate chicken with curd, ginger-garlic paste, turmeric, chili powder, and salt for 30 mins.",
+    "Cook rice 80% with salt and drain. Set aside.",
+    "In a pot, heat oil/ghee, add whole spices and sliced onions. Sauté until golden.",
+    "Add tomatoes and cook till soft. Add marinated chicken, cook until tender and oil separates.",
+    "Add coriander and mint leaves.",
+    "Layer cooked rice over chicken, sprinkle some mint, coriander, and fried onions.",
+    "Cover and cook on low heat (dum) for 15-20 minutes.",
+    "Serve hot with raita or salan."
+  ]
+},
+      {
+  "id": 11,
+  "name": "Chicken Pizza",
+  "image": "https://media.istockphoto.com/id/140454048/photo/cutting-pizza.jpg?s=612x612&w=0&k=20&c=2lCZjKJ8S93VUYskBVEuuUyA3y3m9nz5ecnHVGR7eLo=",
+  "prep_time": "45 mins",
+  "ingredients": [
+    "1 pizza base",
+    "1/2 cup cooked chicken (shredded or diced)",
+    "1/4 cup pizza sauce",
+    "1/2 cup mozzarella cheese (grated)",
+    "1/4 onion (sliced)",
+    "1/4 capsicum (sliced)",
+    "1/2 tsp chili flakes",
+    "1/2 tsp oregano",
+    "1 tsp olive oil"
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Spread pizza sauce evenly over the pizza base.",
+    "Add a layer of shredded chicken, onion, and capsicum.",
+    "Sprinkle mozzarella cheese generously over the toppings.",
+    "Add chili flakes and oregano for flavor.",
+    "Drizzle a bit of olive oil on top.",
+    "Bake in a preheated oven for 12–15 minutes or until the cheese is melted and bubbly.",
+    "Slice and serve hot."
+  ]
+},
 {
       "id": 1,
       "name": "Poha",
@@ -133,41 +193,6 @@
     "Garnish with coriander leaves and serve hot."
   ]
 },
-
-
-{
-  "id": 7,
-  "name": "Chicken Biryani",
-  "image": "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=612x612&w=0&k=20&c=adU_N0P-1SKMQLZu5yu7aPknfLLgbViI8XILqLP92A4=",
-  "prep_time": "1 hr",
-  "ingredients": [
-    "1 cup basmati rice (soaked 30 mins)",
-    "250g chicken (with bone, cleaned)",
-    "1/2 cup curd",
-    "1 onion (thinly sliced)",
-    "2 tomatoes (chopped)",
-    "1 tbsp ginger-garlic paste",
-    "1/2 tsp turmeric powder",
-    "1 tsp red chili powder",
-    "1 tsp garam masala",
-    "1/2 tsp biryani masala",
-    "Whole spices (1 bay leaf, 2 cloves, 2 cardamoms, 1 cinnamon stick)",
-    "Salt to taste",
-    "Coriander & mint leaves (chopped)",
-    "2 tbsp oil or ghee",
-    "Fried onions for garnish (optional)"
-  ],
-  "instructions": [
-    "Marinate chicken with curd, ginger-garlic paste, turmeric, chili powder, and salt for 30 mins.",
-    "Cook rice 80% with salt and drain. Set aside.",
-    "In a pot, heat oil/ghee, add whole spices and sliced onions. Sauté until golden.",
-    "Add tomatoes and cook till soft. Add marinated chicken, cook until tender and oil separates.",
-    "Add coriander and mint leaves.",
-    "Layer cooked rice over chicken, sprinkle some mint, coriander, and fried onions.",
-    "Cover and cook on low heat (dum) for 15-20 minutes.",
-    "Serve hot with raita or salan."
-  ]
-},
 {
   "id": 8,
   "name": "Ghee Dal Rice",
@@ -239,33 +264,6 @@
     "Sprinkle rice flour or semolina over both sides for a crispy texture.",
     "Heat oil in a pan and shallow fry the fish on medium heat until golden brown on both sides.",
     "Serve hot with onion rings and lemon wedges."
-  ]
-},
-{
-  "id": 11,
-  "name": "Chicken Pizza",
-  "image": "https://media.istockphoto.com/id/140454048/photo/cutting-pizza.jpg?s=612x612&w=0&k=20&c=2lCZjKJ8S93VUYskBVEuuUyA3y3m9nz5ecnHVGR7eLo=",
-  "prep_time": "45 mins",
-  "ingredients": [
-    "1 pizza base",
-    "1/2 cup cooked chicken (shredded or diced)",
-    "1/4 cup pizza sauce",
-    "1/2 cup mozzarella cheese (grated)",
-    "1/4 onion (sliced)",
-    "1/4 capsicum (sliced)",
-    "1/2 tsp chili flakes",
-    "1/2 tsp oregano",
-    "1 tsp olive oil"
-  ],
-  "instructions": [
-    "Preheat oven to 200°C (392°F).",
-    "Spread pizza sauce evenly over the pizza base.",
-    "Add a layer of shredded chicken, onion, and capsicum.",
-    "Sprinkle mozzarella cheese generously over the toppings.",
-    "Add chili flakes and oregano for flavor.",
-    "Drizzle a bit of olive oil on top.",
-    "Bake in a preheated oven for 12–15 minutes or until the cheese is melted and bubbly.",
-    "Slice and serve hot."
   ]
 },
 {
