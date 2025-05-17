@@ -1,0 +1,138 @@
+[
+{
+  "id": 6,
+  "name": "Veg Pulao",
+  "image": "https://media.istockphoto.com/id/1222031490/photo/veg-pulao-with-paneer-tikka-masala-and-lachha-paratha.jpg?s=612x612&w=0&k=20&c=ujCLDaBrUQvJblBIUApoRhf4tZ4qLs1pe1Zd1Yq-kXk=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "1 cup basmati rice (soaked 20 mins)",
+    "1/2 cup mixed vegetables (carrot, beans, peas, potato)",
+    "1 onion (sliced)",
+    "1 green chili (slit)",
+    "1 tsp ginger-garlic paste",
+    "1/4 tsp turmeric powder",
+    "1/2 tsp garam masala",
+    "Whole spices (1 bay leaf, 2 cardamoms, 2 cloves, 1 cinnamon stick)",
+    "2 tbsp oil or ghee",
+    "Salt to taste",
+    "Coriander leaves (for garnish)"
+  ],
+  "instructions": [
+    "Heat oil/ghee, sauté whole spices.",
+    "Add onion and green chili, cook until golden.",
+    "Add ginger-garlic paste, sauté for a minute.",
+    "Add chopped veggies, turmeric, garam masala, and salt. Sauté for 2-3 mins.",
+    "Add soaked rice and 2 cups water. Mix well.",
+    "Cover and cook on low until rice is done.",
+    "Garnish with coriander leaves and serve hot."
+  ]
+},
+
+
+{
+  "id": 7,
+  "name": "Chicken Biryani",
+  "image": "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=612x612&w=0&k=20&c=adU_N0P-1SKMQLZu5yu7aPknfLLgbViI8XILqLP92A4=",
+  "prep_time": "1 hr",
+  "ingredients": [
+    "1 cup basmati rice (soaked 30 mins)",
+    "250g chicken (with bone, cleaned)",
+    "1/2 cup curd",
+    "1 onion (thinly sliced)",
+    "2 tomatoes (chopped)",
+    "1 tbsp ginger-garlic paste",
+    "1/2 tsp turmeric powder",
+    "1 tsp red chili powder",
+    "1 tsp garam masala",
+    "1/2 tsp biryani masala",
+    "Whole spices (1 bay leaf, 2 cloves, 2 cardamoms, 1 cinnamon stick)",
+    "Salt to taste",
+    "Coriander & mint leaves (chopped)",
+    "2 tbsp oil or ghee",
+    "Fried onions for garnish (optional)"
+  ],
+  "instructions": [
+    "Marinate chicken with curd, ginger-garlic paste, turmeric, chili powder, and salt for 30 mins.",
+    "Cook rice 80% with salt and drain. Set aside.",
+    "In a pot, heat oil/ghee, add whole spices and sliced onions. Sauté until golden.",
+    "Add tomatoes and cook till soft. Add marinated chicken, cook until tender and oil separates.",
+    "Add coriander and mint leaves.",
+    "Layer cooked rice over chicken, sprinkle some mint, coriander, and fried onions.",
+    "Cover and cook on low heat (dum) for 15-20 minutes.",
+    "Serve hot with raita or salan."
+  ]
+},
+{
+  "id": 8,
+  "name": "Ghee Dal Rice",
+  "image": "https://media.istockphoto.com/id/1315914161/photo/indian-style-dal-tadka-served-with-plain-rice.jpg?s=612x612&w=0&k=20&c=2czP_4QYZsPgYfrcfxZQo91Qbg0nU9sFcNGBWBKmEyg=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "1/2 cup toor dal (pigeon peas)",
+    "1 cup cooked rice",
+    "2 cups water (for boiling dal)",
+    "1/4 tsp turmeric powder",
+    "Salt to taste",
+    "2 tsp ghee",
+    "1/2 tsp cumin seeds",
+    "1 dry red chili",
+    "A pinch of asafoetida (hing)",
+    "Few curry leaves (optional)"
+  ],
+  "instructions": [
+    "Pressure cook toor dal with turmeric and 2 cups water for 3-4 whistles until soft.",
+    "Mash the cooked dal and mix with salt.",
+    "In a small pan, heat ghee. Add cumin seeds, red chili, hing, and curry leaves for tempering.",
+    "Pour the tempering over the dal and mix well.",
+    "Serve the hot dal over rice with an extra spoon of ghee on top."
+  ]
+},
+{
+  "id": 9,
+  "name": "Veg Thali",
+  "image": "https://media.istockphoto.com/id/1488738066/photo/south-indian-veg-thali-food-platter.jpg?s=612x612&w=0&k=20&c=hPaSi9trQtcf3F_cyHPsXpUGYJshG1u064e17SMD6Ds=",
+  "prep_time": "60 mins",
+  "ingredients": [
+    "1 cup cooked rice",
+    "2 chapatis",
+    "1 small bowl dal (lentils)",
+    "1 small bowl vegetable curry (like aloo gobi or mixed veg)",
+    "1 small bowl curd or raita",
+    "Papad or pickle",
+    "1 tsp ghee",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "Prepare rice and chapatis.",
+    "Cook dal with turmeric, salt and temper with mustard, cumin, and garlic.",
+    "Prepare a seasonal vegetable curry with spices.",
+    "Whisk curd and add spices or vegetables to make raita.",
+    "Serve all items together on a plate with a spoon of ghee on rice.",
+    "Add pickle or papad for sides."
+  ]
+},
+{
+  "id": 10,
+  "name": "Fish Fry",
+  "image": "https://media.istockphoto.com/id/482121467/photo/indian-thali-with-fish.jpg?s=612x612&w=0&k=20&c=VN1wILU7RRC-ey9llvVpB7-YGemIz4LZfv3pO5g8qd4=",
+  "prep_time": "30 mins",
+  "ingredients": [
+    "4 fish slices (like Rohu or Pomfret)",
+    "1 tbsp red chili powder",
+    "1/2 tsp turmeric powder",
+    "1 tbsp ginger garlic paste",
+    "1 tsp lemon juice",
+    "Salt to taste",
+    "2 tbsp rice flour or semolina (for crispiness)",
+    "Oil for shallow frying"
+  ],
+  "instructions": [
+    "Clean fish slices thoroughly.",
+    "Mix chili powder, turmeric, salt, ginger garlic paste, and lemon juice to make a marinade.",
+    "Coat the fish slices in the marinade and let it rest for 20 minutes.",
+    "Sprinkle rice flour or semolina over both sides for a crispy texture.",
+    "Heat oil in a pan and shallow fry the fish on medium heat until golden brown on both sides.",
+    "Serve hot with onion rings and lemon wedges."
+  ]
+}
+]
