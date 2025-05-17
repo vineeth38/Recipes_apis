@@ -1,0 +1,114 @@
+[
+{
+  "id": 11,
+  "name": "Chicken Pizza",
+  "image": "https://media.istockphoto.com/id/140454048/photo/cutting-pizza.jpg?s=612x612&w=0&k=20&c=2lCZjKJ8S93VUYskBVEuuUyA3y3m9nz5ecnHVGR7eLo=",
+  "prep_time": "45 mins",
+  "ingredients": [
+    "1 pizza base",
+    "1/2 cup cooked chicken (shredded or diced)",
+    "1/4 cup pizza sauce",
+    "1/2 cup mozzarella cheese (grated)",
+    "1/4 onion (sliced)",
+    "1/4 capsicum (sliced)",
+    "1/2 tsp chili flakes",
+    "1/2 tsp oregano",
+    "1 tsp olive oil"
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Spread pizza sauce evenly over the pizza base.",
+    "Add a layer of shredded chicken, onion, and capsicum.",
+    "Sprinkle mozzarella cheese generously over the toppings.",
+    "Add chili flakes and oregano for flavor.",
+    "Drizzle a bit of olive oil on top.",
+    "Bake in a preheated oven for 12–15 minutes or until the cheese is melted and bubbly.",
+    "Slice and serve hot."
+  ]
+},
+{
+  "id": 12,
+  "name": "KFC-Style Fried Chicken",
+  "image": "https://media.istockphoto.com/id/1406841380/photo/restaurant-style-fried-chicken-meal.jpg?s=612x612&w=0&k=20&c=xNTBUnNVo5O2bPJUAjZnciXKGPsAGZcFN8878CxCi-4=",
+  "prep_time": "60 mins",
+  "ingredients": [
+    "500g chicken drumsticks or wings",
+    "2 cups buttermilk",
+    "1 cup all-purpose flour",
+    "1/2 cup cornflour",
+    "1 tsp paprika",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1/2 tsp black pepper",
+    "1/2 tsp cayenne pepper",
+    "Salt to taste",
+    "Oil for deep frying"
+  ],
+  "instructions": [
+    "Marinate the chicken in buttermilk for at least 2 hours (preferably overnight).",
+    "In a large bowl, mix flour, cornflour, paprika, garlic powder, onion powder, black pepper, cayenne pepper, and salt.",
+    "Remove chicken from buttermilk, letting the excess drip off.",
+    "Coat chicken pieces in the flour mixture, pressing firmly for a thick crust.",
+    "Heat oil in a deep pan to 180°C (350°F).",
+    "Fry chicken pieces in batches for 10–15 minutes until golden and fully cooked.",
+    "Drain on paper towels and serve hot with ketchup or mayo dip."
+  ]
+},
+{
+  "id": 13,
+  "name": "Creamy Tomato Pasta",
+  "image": "https://media.istockphoto.com/id/1387700448/photo/fusili-with-meat-bacon-sausages-and-tomato-sauce.jpg?s=612x612&w=0&k=20&c=kVYyMF26p5VC3W-VdlRBPQO02EiamM-5XGHy_0enjok=",
+  "prep_time": "25 mins",
+  "ingredients": [
+    "200g penne pasta",
+    "2 tbsp olive oil",
+    "2 garlic cloves (minced)",
+    "1 small onion (chopped)",
+    "2 medium tomatoes (blended or finely chopped)",
+    "1/2 cup tomato puree",
+    "1/2 tsp chili flakes",
+    "1/2 tsp oregano",
+    "1/4 cup fresh cream",
+    "Salt to taste",
+    "Grated cheese (optional)",
+    "Fresh basil for garnish"
+  ],
+  "instructions": [
+    "Boil pasta in salted water until al dente, drain, and set aside.",
+    "Heat olive oil in a pan, sauté garlic and onions until soft.",
+    "Add blended tomatoes and tomato puree. Cook for 5–7 minutes.",
+    "Season with chili flakes, oregano, and salt.",
+    "Stir in fresh cream and mix well.",
+    "Add boiled pasta and toss to coat evenly.",
+    "Top with cheese if desired and garnish with fresh basil.",
+    "Serve hot."
+  ]
+},
+
+{
+  "id": 14,
+  "name": "Masala Maggi Noodles",
+  "image": "https://media.istockphoto.com/id/1487046121/photo/spaghetti-marinara-pasta-with-tomato-sauce-and-basil.jpg?s=612x612&w=0&k=20&c=aJR5JHxR5y-fn_ApAEn10PExf3ldxELFo61kHSvZ9HQ=",
+  "prep_time": "10 mins",
+  "ingredients": [
+    "1 pack Maggi noodles",
+    "1 3/4 cups water",
+    "1/4 onion (chopped)",
+    "1 small tomato (chopped)",
+    "1/4 cup green peas",
+    "1/4 tsp red chili powder (optional)",
+    "1/4 tsp turmeric (optional)",
+    "1 tsp oil or butter",
+    "Maggi tastemaker (included in pack)"
+  ],
+  "instructions": [
+    "Heat oil in a pan. Sauté onions until translucent.",
+    "Add tomatoes and cook until soft.",
+    "Add peas, turmeric, and red chili powder. Sauté for a minute.",
+    "Pour in water and bring to a boil.",
+    "Add Maggi noodles and tastemaker.",
+    "Cook for 2–3 minutes, stirring occasionally, until water is absorbed.",
+    "Serve hot."
+  ]
+}
+]
