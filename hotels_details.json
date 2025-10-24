@@ -1396,5 +1396,84 @@
         "Close to MG Road and commercial hubs."
       ]
     }
+  ],
+  "recommended":[
+     {
+      "id": 1,
+      "name": "Sun Siyam Olhuveli Maldives",
+      "dp": "https://r1imghtlak.mmtcdn.com/4ee0d3e46aeb11edb3b20a58a9feac02.jpg",
+      "location": "South Malé Atoll",
+      "Rating": "4.6",
+      "Review": "Superb",
+      "benefits": ["Free Wifi", "Beach Access", "Spa", "Infinity Pool", "Bar"],
+      "images": [
+        "https://r1imghtlak.mmtcdn.com/840780546aeb11edb1910a58a9feac02.jpg",
+        "https://ak-d.tripcdn.com/images//1mc5e12000bsi3w89876F_R_550_412_R5_Mtrip.jpg",
+        "https://r1imghtlak.mmtcdn.com/8c8c0c30560f11ee93ae0a58a9feac02.jpg",
+        "https://r1imghtlak.mmtcdn.com/05bd703e5ec211ee88720a58a9feac02.png",
+        "https://r1imghtlak.mmtcdn.com/d63eeb80dced11e49d53001ec9b85d13.jfif"
+      ],
+      "price": 24000,
+      "heading": "Experience paradise with beachfront villas, fine dining, and breathtaking ocean views at this luxury resort.",
+      "highlights": [
+        "Stay in luxurious beachfront and overwater villas with panoramic lagoon views.",
+        "Relax with rejuvenating therapies at the award-winning Sun Spa.",
+        "Indulge in global cuisines across 9 dining venues.",
+        "Enjoy water sports like snorkeling, diving, and parasailing.",
+        "Unwind by the infinity pool overlooking the turquoise lagoon."
+      ],
+      "city":"maldivas"
+    },
+    {
+      "id": 1,
+      "name": "Sterling Ooty Elk Hill",
+      "dp": "https://r1imghtlak.ibcdn.com/9daecf79-b749-40b9-980d-093837ac26e2.JPEG?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=webp",
+      "location": "Elk Hill",
+      "Rating": "4.5",
+      "Review": "Excellent",
+      "benefits": ["Free Wifi", "Mountain View", "Spa", "Restaurant", "Free Parking"],
+      "images": [
+        "https://r1imghtlak.mmtcdn.com/5bf77fe8-8096-4682-9b1b-3ebb8764bffd.JPEG",
+        "https://r1imghtlak.mmtcdn.com/9daecf79-b749-40b9-980d-093837ac26e2.JPEG",
+        "https://r1imghtlak.mmtcdn.com/59c52162-f43e-4b68-ad60-b636835bc4a2.JPEG",
+        "https://r1imghtlak.mmtcdn.com/05bd703e5ec211ee88720a58a9feac02.png",
+        "https://r1imghtlak.mmtcdn.com/d63eeb80dced11e49d53001ec9b85d13.jfif"
+      ],
+      "price": 5200,
+      "heading": "Nestled amidst the Nilgiris, this property offers breathtaking valley views, cozy rooms, and a tranquil spa experience.",
+      "highlights": [
+        "Located atop Elk Hill with panoramic views of Ooty town.",
+        "Enjoy a rejuvenating spa session at the in-house wellness center.",
+        "Relish local delicacies at the multi-cuisine restaurant.",
+        "Spacious rooms with modern amenities and free Wi-Fi.",
+        "Kids play area and bonfire nights for family enjoyment."
+      ],
+      "city":"ooty"
+    },
+    {
+      "id": 7,
+      "name": "The Park Hyderabad",
+      "dp": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202312051555246170-4c9083b0935711eebc620a58a9feac02.jpg?&output-quality=75&crop=520:350;2,0&output-format=jpg&downsize=600:*",
+      "location": "Somajiguda",
+      "Rating": "4.1",
+      "Review": "Very Good",
+      "benefits": ["Free Wifi", "Spa", "Bar", "Pool", "Nightclub"],
+      "images": [
+        "https://juggler.makemytrip.com/juggler/stream/key/platform-ugc-01K6QHDFZ7M73QDPYSBHGB9B8P/01K6QHDFZ7M73QDPYSBHGB9B8P.jpg",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH71119364692206/QS1042/QS1042-Q1/1731462839942.jpeg",
+        "https://juggler.makemytrip.com/juggler/stream/key/platform-ugc-01K6Z15HFC3NFEYEZTFMY64VF3/01K6Z15HFC3NFEYEZTFMY64VF3.jpg",
+        "https://juggler.makemytrip.com/juggler/stream/key/platform-ugc-01K4QE0V59KAM1WKDV0YVJ9ST2/01K4QE0V59KAM1WKDV0YVJ9ST2.jpg",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH72164339641222/QS1042/QS1042-Q1/490720916.jpg"
+      ],
+      "price": 6400,
+      "heading": "A stylish lifestyle hotel overlooking Hussain Sagar Lake with vibrant nightlife and modern comforts.",
+      "highlights": [
+        "Stunning lake view infinity pool.",
+        "Trendy Aqua Bar and Kismet Nightclub.",
+        "Signature spa offering holistic therapies.",
+        "Contemporary rooms with artistic interiors."
+      ],
+      "city":"hyderabad"
+    }
   ]
 }
